@@ -286,7 +286,9 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-nav .nav-item.active > .nav-link {
-    color: var(--global-text-color);
+    background-color: inherit;
+    font-weight: bolder;
+    color: var(--global-theme-color);
 
     &:hover {
       color: var(--global-hover-color);
