@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /
 title: Professional Services
 description: 
-nav: true
+nav: false
 nav_order: 3
 ---
 
