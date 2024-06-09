@@ -11,6 +11,7 @@ profile:
   more_info: >
 
 news: true # includes a list of news items
+services: true # include professional services
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
