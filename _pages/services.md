@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: Professional Services
 description: I served as a conference PC member for AAAI 2023--2024 and ICANN 2023--2024. 
 
