@@ -5,7 +5,7 @@ subtitle: Postdoctoral Researcher, Nanyang Technological University
 permalink: /
 
 profile:
-  align: left
+  align: right
   image: bio.png
   image_circular: false # crops the image to make it circular
   more_info: >
