@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to ICANN.
+One paper accepted to ICANN 2023.

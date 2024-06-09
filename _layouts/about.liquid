@@ -47,12 +47,11 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-    <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
+    <!-- Professional Services -->
+    {% if site.professional_services.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        Professional Services
       </h2>
-      {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
