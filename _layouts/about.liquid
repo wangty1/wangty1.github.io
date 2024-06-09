@@ -39,6 +39,14 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- News -->
+    {% if page.news and site.announcements.enabled %}
+      <h2>
+        News
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
@@ -49,9 +57,13 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
+      {% assign news_size = site.news | size %}
       <h2>
-        Selected Publications
-        See the full list in <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>.
+        Selected Publications<br>
+        <span style="font-size: news_size;">
+        See the full publication list <a href="{{ '/publications/' | relative_url }}" style="color: inherit">here</a>.
+        </span>
+        
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
