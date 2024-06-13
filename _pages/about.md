@@ -29,10 +29,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ## Experiences
 
-* Nanyang Technological University (2023 -- Present)
-  * Postdoctoral Researcher
-* The University of Hong Kong (2018 -- 2023)
-  * Ph.D. Student, Computer Science
-* University of Washington (2014 -- 2018)
-  * Undergraduate Student, Computer Science
-  * Undergraduate Student, Applied & Computational Mathematical Sciences
+Nanyang Technological University (2023 -- Present)
+* Postdoctoral Researcher
+The University of Hong Kong (2018 -- 2023)
+* Ph.D. Student, Computer Science
+University of Washington (2014 -- 2018)
+* Undergraduate Student, Computer Science
+* Undergraduate Student, Applied & Computational Mathematical Sciences
