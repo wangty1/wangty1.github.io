@@ -37,4 +37,5 @@ The University of Hong Kong (2018 -- 2023)
 
 University of Washington (2014 -- 2018)
 * Undergraduate Student, Computer Science
+
 * Undergraduate Student, Applied & Computational Mathematical Sciences
