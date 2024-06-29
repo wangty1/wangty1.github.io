@@ -11,7 +11,7 @@ profile:
   more_info: >
 
 news: true # includes a list of news items
-services: true # include professional services
+services: false # include professional services
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -39,3 +39,11 @@ University of Washington (2014 -- 2018)
 * Undergraduate Student, Computer Science
 
 * Undergraduate Student, Applied & Computational Mathematical Sciences
+
+## Professional Services
+
+* PC member: AAAI 2023--2025 and ICANN 2023--2024. 
+
+* Conference Reviewer: CVPR 2022--2024, ICCV 2023, ECCV 2022--2024, ICME 2024, IH&MMSec 2024, WACV 2024, and ACCV 2024. 
+
+* Journal Reviewer: TBD, TOMM, Neural Networks, CVIU, SPL, and COSE. 
