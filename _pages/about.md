@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a postdoctoral researcher at Nanyang Technological University (NTU), working with Prof. [Chunyan Miao](https://dr.ntu.edu.sg/cris/rp/rp00084). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
 
-Before joining NTU, I received my Ph.D. dgree in [Computer Science](https://www.cs.hku.hk/) at The University of Hong Kong (HKU), supervised by Dr. [Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences](https://acms.washington.edu/) at University of Washington (UW) in Seattle. 
+Before joining NTU, I received my Ph.D. dgree in [Computer Science](https://www.cs.hku.hk/) at The University of Hong Kong (HKU), supervised by Dr. [Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences](https://acms.washington.edu/) at University of Washington (UW) in Seattle.
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
@@ -30,20 +30,23 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ## Experiences
 
 Nanyang Technological University (2023 -- Present)
-* Postdoctoral Researcher
+
+- Postdoctoral Researcher
 
 The University of Hong Kong (2018 -- 2023)
-* Ph.D. Student, Computer Science
+
+- Ph.D. Student, Computer Science
 
 University of Washington (2014 -- 2018)
-* Undergraduate Student, Computer Science
 
-* Undergraduate Student, Applied & Computational Mathematical Sciences
+- Undergraduate Student, Computer Science
+
+- Undergraduate Student, Applied & Computational Mathematical Sciences
 
 ## Professional Services
 
-I served as a conference PC member for AAAI 2023--2025 and ICANN 2023--2024. 
+I served as a conference PC member for AAAI 2023--2025 and ICANN 2023--2024.
 
-I served as a conference reviewer for CVPR 2022--2024, ICCV 2023, ECCV 2022--2024, ICME 2024, IH&MMSec 2024, WACV 2024, and ACCV 2024. 
+I served as a conference reviewer for CVPR 2022--2024, ICCV 2023, ECCV 2022--2024, ICME 2024, IH&MMSec 2024, WACV 2024, and ACCV 2024.
 
-I served as a journal reviewer for TOMM, Neural Networks, TBD, CVIU, SPL, and COSE. 
+I served as a journal reviewer for TOMM, Neural Networks, TBD, CVIU, SPL, and COSE.
