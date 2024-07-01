@@ -8,7 +8,7 @@ middle_name:
 last_name: Wang
 email: terry.ai.wang@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+
 footer_text: >
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -108,7 +108,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
