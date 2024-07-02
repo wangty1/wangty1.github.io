@@ -5,7 +5,9 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+        {{ site.first_name }}
+        {{ site.middle_name }}
+        {{ site.last_name }}
       {% else %}
         {{ site.title }}
       {% endif %}
@@ -41,27 +43,21 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <h2>
-        News
-      </h2>
+      <h2>News</h2>
       {% include news.liquid limit=true %}
     {% endif %}
 
     <!-- Professional Services -->
     {% if page.services and site.professional_services.enabled %}
       <section id="services">
-        <h2>
-          Professional Services
-        </h2>
+        <h2>Professional Services</h2>
         {% include services.liquid limit=true %}
       </section>
     {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
-        Selected Publications   
-      </h2>
+      <h2>Selected Publications</h2>
       {% include selected_papers.liquid %}
     {% endif %}
 
