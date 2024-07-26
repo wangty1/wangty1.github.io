@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted to ACM MM 2024
+Two papers accepted to ACM MM 2024.
