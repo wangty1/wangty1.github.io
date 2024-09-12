@@ -33,7 +33,7 @@ Nanyang Technological University (2023 -- Present)
 
 - Postdoctoral Researcher
 
-The University of Hong Kong (2018 -- 2023)
+University of Hong Kong (2018 -- 2023)
 
 - Ph.D. Student, Computer Science
 
