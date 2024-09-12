@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at Nanyang Technological University (NTU), working with Prof. [Chunyan Miao](https://dr.ntu.edu.sg/cris/rp/rp00084). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
+I am currently a postdoctoral researcher at Nanyang Technological University (NTU), working with Prof. [Chunyan Miao](https://dr.ntu.edu.sg/cris/rp/rp00084). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
 
-Before joining NTU, I received my Ph.D. dgree in [Computer Science](https://www.cs.hku.hk/) at The University of Hong Kong (HKU), supervised by Dr. [Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences](https://acms.washington.edu/) at University of Washington (UW) in Seattle.
+Before joining NTU, I received my Ph.D. dgree in [Computer Science](https://www.cs.hku.hk/) at the University of Hong Kong (HKU), supervised by Dr. [Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences](https://acms.washington.edu/) at the University of Washington (UW) in Seattle.
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
