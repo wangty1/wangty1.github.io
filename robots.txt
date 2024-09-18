@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wangty1.github.io/sitemap.xml
+Sitemap: https://www.tianyiwang.xyz/sitemap.xml
