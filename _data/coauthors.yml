@@ -26,6 +26,22 @@
   - firstname: ["Mohan"]
     url: https://scholar.google.com.sg/citations?user=6Lx_eowAAAAJ&hl=en
 
+"yu":
+  - firstname: ["Zitong"]
+    url: https://scholar.google.com/citations?user=ziHejLwAAAAJ&hl=en
+
+"shen"
+  - firstname: ["Linlin"]
+    url: https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl=en
+
+"lin"
+  - firstname: ["Xiaodong"]
+    url: https://scholar.google.com.sg/citations?hl=en&user=om3xUIcAAAAJ
+
+"chang"
+  - firstname: ["Xiaojun"]
+    url: https://scholar.google.com/citations?user=8suupocAAAAJ&hl=en
+
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
