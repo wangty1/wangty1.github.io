@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral researcher at Nanyang Technological University (NTU), working with [Prof. Chunyan Miao](https://dr.ntu.edu.sg/cris/rp/rp00084). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
+I am currently a postdoctoral researcher at [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU), working with [Prof. Chunyan Miao](https://dr.ntu.edu.sg/cris/rp/rp00084). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
 
 Before joining NTU, I received my Ph.D. dgree in [Computer Science](https://www.cs.hku.hk/) at the University of Hong Kong (HKU), supervised by [Dr. Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences](https://acms.washington.edu/) at the University of Washington (UW) in Seattle.
 
@@ -51,6 +51,12 @@ I am a member of China Society of Image and Graphics, Technical Committee on Dig
 
 I served as a conference PC member for AAAI 2023--2025 and ICANN 2023--2024.
 
-I served as a conference reviewer for CVPR 2022--2025, ICCV 2023, ECCV 2022--2024, ICME 2024--2025, IH&MMSec 2024, WACV 2024, and ACCV 2024.
+I served as a conference reviewer for CVPR 2022--2025, ICCV 2023, ECCV 2022--2024, IJCAI 2025, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
 
-I served as a journal reviewer for TOMM, TBD, Neural Networks, CVIU, SPL, and COSE.
+I served as a journal reviewer for TKDE, TOMM, TBD, Neural Networks, CVIU, and SPL.
+
+<!---## Awards and Honors
+
+Third Prize, Tencent AI Arena Global Open Competition, Intelligent Agent Gaming Algorithm Track, International Region Finals, 2024. (2024腾讯开悟人工智能全球公开赛, 智能体博弈算法赛道, 海外赛区三等奖)
+
+Postgraduate Scholarship (PGS), The University of Hong Kong, 2018--2022.-->
