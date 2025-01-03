@@ -49,7 +49,7 @@ I am a member of IEEE and ACM.
 
 I am a member of China Society of Image and Graphics, Technical Committee on Digital Media Forensics and Security. (中国图象图形学会数字媒体取证与安全专业委员会委员)
 
-I served as a conference PC member for AAAI 2023--2025 and ICANN 2023--2024.
+I served as a conference PC member for AAAI 2023--2025, IJCAI 2025 Survey Track, and ICANN 2023--2024.
 
 I served as a conference reviewer for CVPR 2022--2025, ICCV 2023, ECCV 2022--2024, IJCAI 2025, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
 
