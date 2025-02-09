@@ -53,9 +53,11 @@ I served as a conference PC member for AAAI 2023--2025, IJCAI 2025 Survey Track,
 
 I served as a conference reviewer for CVPR 2022--2025, ICCV 2023, ECCV 2022--2024, IJCAI 2025, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
 
-I served as a journal reviewer for TKDE, TOMM, TBD, Neural Networks, CVIU, and SPL.
+I served as a journal reviewer for TIFS, TKDE, TCSVT, TOMM, TBD, Neural Networks, CVIU, and SPL.
 
 <!---## Awards and Honors
+
+Shenzhen Excellent Science & Technology Academic Paper, 2024. <em>GenFace: A Large-Scale Fine-Grained Face Forgery Benchmark and Cross Appearance-Edge Learning</em>. (2024年深圳市优秀科技论文成果奖)
 
 Third Prize, Tencent AI Arena Global Open Competition, Intelligent Agent Gaming Algorithm Track, International Region Finals, 2024. (2024腾讯开悟人工智能全球公开赛, 智能体博弈算法赛道, 海外赛区三等奖)
 
