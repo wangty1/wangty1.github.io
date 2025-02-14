@@ -53,7 +53,7 @@ I served as a conference PC member for AAAI 2023--2025, IJCAI 2025 Survey Track,
 
 I served as a conference reviewer for CVPR 2022--2025, ICCV 2023--2025, ECCV 2022--2024, IJCAI 2025, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
 
-I served as a journal reviewer for TIFS, TKDE, TCSVT, TOMM, TBD, Neural Networks, CVIU, and SPL.
+I served as a journal reviewer for IEEE TPAMI, TIFS, TKDE, TCSVT, TBD, ACM TOMM, Neural Networks, CVIU, and SPL.
 
 <!---## Awards and Honors
 
