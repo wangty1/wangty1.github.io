@@ -51,7 +51,7 @@ I am a member of China Society of Image and Graphics, Technical Committee on Dig
 
 I served as a conference PC member for AAAI 2023--2025, IJCAI 2025 Survey Track, and ICANN 2023--2024.
 
-I served as a conference reviewer for CVPR 2022--2025, ICCV 2023, ECCV 2022--2024, IJCAI 2025, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
+I served as a conference reviewer for CVPR 2022--2025, ICCV 2023--2025, ECCV 2022--2024, IJCAI 2025, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
 
 I served as a journal reviewer for TIFS, TKDE, TCSVT, TOMM, TBD, Neural Networks, CVIU, and SPL.
 
