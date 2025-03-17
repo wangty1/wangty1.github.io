@@ -31,11 +31,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 National University of Singapore (2025 -- Present)
 
-- Postdoctoral Researcher
+- Research Fellow
 
 Nanyang Technological University (2023 -- 2025)
 
-- Postdoctoral Researcher
+- Research Fellow
 
 University of Hong Kong (2018 -- 2023)
 
