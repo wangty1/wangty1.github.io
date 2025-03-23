@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a research fellow at [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS), working with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/cs/people/mohan/). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
+I am currently a research fellow at [School of Computing (SoC)](https://www.comp.nus.edu.sg/), National University of Singapore (NUS), working with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/cs/people/mohan/). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
 
-Before joining NUS, I was a research fellow at [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU). I received my Ph.D. dgree in [Computer Science](https://www.cs.hku.hk/) at the University of Hong Kong (HKU), supervised by [Dr. Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences](https://acms.washington.edu/) at the University of Washington (UW) in Seattle.
+Before joining NUS, I was a research fellow at [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU). I received my Ph.D. dgree in [Computer Science (CS)](https://www.cs.hku.hk/) at the University of Hong Kong (HKU), supervised by [Dr. Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science (CS)](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences (ACMS)](https://acms.washington.edu/) at the University of Washington (UW) in Seattle.
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
@@ -53,11 +53,11 @@ I am a member of IEEE and ACM.
 
 I am a member of China Society of Image and Graphics, Technical Committee on Digital Media Forensics and Security. (中国图象图形学会数字媒体取证与安全专业委员会委员)
 
-I served as a conference PC member for AAAI 2023--2025, IJCAI 2025 Survey Track, and ICANN 2023--2025.
+I serve as a conference PC member for AAAI 2023--2025, IJCAI 2025 Survey Track, and ICANN 2023--2025.
 
-I served as a conference reviewer for CVPR 2022--2025, ICCV 2023--2025, ECCV 2022--2024, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
+I serve as a conference reviewer for CVPR 2022--2025, ICCV 2023--2025, ECCV 2022--2024, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
 
-I served as a journal reviewer for IEEE TPAMI, TIFS, TKDE, TDSC, TCSVT, TBD, ACM TOMM, Neural Networks, CVIU, Neurocomputing, and SPL.
+I serve as a journal reviewer for IEEE TPAMI, TIP, TIFS, TKDE, TDSC, TCSVT, TBD, ACM TOMM, Neural Networks, CVIU, Neurocomputing, and SPL.
 
 <!---## Awards and Honors
 
