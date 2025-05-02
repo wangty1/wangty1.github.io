@@ -46,6 +46,10 @@
   - firstname: ["Xiaojun"]
     url: https://scholar.google.com/citations?user=8suupocAAAAJ&hl=en
 
+"zhao":
+  - firstname: ["Peilin"]
+    url: https://peilinzhao.github.io
+
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
