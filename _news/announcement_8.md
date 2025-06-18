@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to ACM Computing Surveys [(IF=23.8)](https://dl.acm.org/journal/csur).
+One paper accepted to ACM Computing Surveys [(IF=28)](https://dl.acm.org/journal/csur).
