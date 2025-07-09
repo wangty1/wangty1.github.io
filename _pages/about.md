@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-subtitle: Research Fellow, National University of Singapore
+subtitle: Postdoctoral Research Fellow, National University of Singapore
 permalink: /
 
 profile:
@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a research fellow at [School of Computing (SoC)](https://www.comp.nus.edu.sg/), National University of Singapore (NUS), working with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/cs/people/mohan/). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
+I am currently a postdoctoral research fellow at [School of Computing (SoC)](https://www.comp.nus.edu.sg/), National University of Singapore (NUS), working with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/cs/people/mohan/). My research interests include Deepfake Detection, Misinformation Detection, Multimedia Forensics, and Generative AI.
 
-Before joining NUS, I was a research fellow at [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU). I received my Ph.D. degree in [Computer Science (CS)](https://www.cs.hku.hk/) at the University of Hong Kong (HKU), supervised by [Dr. Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science (CS)](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences (ACMS)](https://acms.washington.edu/) at the University of Washington (UW) in Seattle.
+Before joining NUS, I was a postdoctoral research fellow at [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU). I received my Ph.D. degree in [Computer Science (CS)](https://www.cs.hku.hk/) at the University of Hong Kong (HKU), supervised by [Dr. Kam Pui Chow](https://www.cs.hku.hk/people/academic-staff/chow). I received my double-major B.S. degree in [Computer Science (CS)](https://www.cs.washington.edu/) and [Applied & Computational Mathematical Sciences (ACMS)](https://acms.washington.edu/) at the University of Washington (UW) in Seattle.
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
@@ -31,11 +31,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 National University of Singapore (2025 -- Present)
 
-- Research Fellow
+- Postdoctoral Research Fellow
 
 Nanyang Technological University (2023 -- 2025)
 
-- Research Fellow
+- Postdoctoral Research Fellow
 
 University of Hong Kong (2018 -- 2023)
 
