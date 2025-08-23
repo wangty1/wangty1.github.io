@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to ICCV 2025 (Oral).
+One paper accepted to ICCV 2025 (Oral, Top 2.37% of Accepted).
