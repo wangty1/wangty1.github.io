@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be served as an oral session chair at ACM MM 2025 in Dublin.
+I will be served as an oral session chair at ACM MM 2025 in Dublin, Ireland.
