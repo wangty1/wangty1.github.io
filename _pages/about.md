@@ -53,7 +53,7 @@ I am a member of IEEE and ACM.
 
 I am a member of China Society of Image and Graphics, Technical Committee on Digital Media Forensics and Security. (中国图象图形学会数字媒体取证与安全专业委员会委员)
 
-I served as an oral session chair for ACM MM 2025.
+I served as a session chair for ACM MM 2025.
 
 I served as a conference PC member for AAAI 2023--2025, IJCAI 2025 Survey Track, and ICANN 2023--2025.
 
