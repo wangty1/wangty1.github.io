@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be served as a session chair for the Leading Venues Research Forum at ChinaMFS 2025 in Hainan, China. 
+I will be served as a session chair for the Leading Venues Research Forum at ChinaMFS 2025 in Hainan, China.
