@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We ranked **the 2nd Place** (2/163) in [The Competition of Fairness in AI Face Detection](https://sites.google.com/view/aifacedetection/home) at NeuIPS 2025 🎉
+We ranked **the 2nd Place (2/163)** in [The Competition of Fairness in AI Face Detection](https://sites.google.com/view/aifacedetection/home) at NeuIPS 2025 🎉
