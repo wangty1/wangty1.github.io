@@ -55,17 +55,6 @@ I am a member of China Society of Image and Graphics, Technical Committee on Dig
 
 I served as a session chair for ACM MM 2025.
 
-I served as a conference PC member for AAAI 2023--2025, IJCAI 2025 Survey Track, and ICANN 2023--2025.
+I served as a conference PC member for CVPR, ICCV, ECCV, ACM MM, AAAI, and IJCAI. 
 
-I served as a conference reviewer for CVPR 2022--2025, ICCV 2023--2025, ACM MM 2025, ECCV 2022--2024, ICME 2024--2025, IH&MMSec 2024, WACV 2024--2025, and ACCV 2024.
-
-I served as a journal reviewer for IEEE TPAMI, TIP, TIFS, TKDE, TDSC, TMM, TCSVT, TBD, TCSS, TAI, ACM TOMM, Neural Networks, Pattern Recognition,
-CVIU, and Neurocomputing.
-
-<!---## Awards and Honors
-
-Shenzhen Excellent Science & Technology Academic Paper, 2024. <em>GenFace: A Large-Scale Fine-Grained Face Forgery Benchmark and Cross Appearance-Edge Learning</em>. (2024年深圳市优秀科技论文成果奖)
-
-Third Prize, Tencent AI Arena Global Open Competition, Intelligent Agent Gaming Algorithm Track, International Region Finals, 2024. (2024腾讯开悟人工智能全球公开赛, 智能体博弈算法赛道, 海外赛区三等奖)
-
-Postgraduate Scholarship (PGS), The University of Hong Kong, 2018--2022.-->
+I served as a journal reviewer for IEEE TPAMI, TIP, TIFS, TKDE, TDSC, TMM, TCSVT, TBD, TCSS, TAI, ACM TOMM, Neural Networks, Pattern Recognition, CVIU, and Neurocomputing.
