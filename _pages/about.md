@@ -55,6 +55,6 @@ I am a member of China Society of Image and Graphics, Technical Committee on Dig
 
 I served as a session chair for ACM MM 2025.
 
-I served as a conference PC member for CVPR, ICCV, ECCV, ACM MM, AAAI, and IJCAI. 
+I served as a conference PC member for CVPR, ICCV, ECCV, ACM MM, AAAI, and IJCAI.
 
 I served as a journal reviewer for IEEE TPAMI, TIP, TIFS, TKDE, TDSC, TMM, TCSVT, TBD, TCSS, TAI, ACM TOMM, Neural Networks, Pattern Recognition, CVIU, and Neurocomputing.
